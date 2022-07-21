@@ -1,0 +1,28 @@
+body{
+    background-color: azure;
+}
+.container{
+    padding-top: 50px;
+}
+.m-0{
+    font-size: 20px;
+    font-weight: 100;
+}
+#firstNameOutput{
+    color: rgb(130,27,111);
+}
+#surnameOutput{
+    color: rgb(108,208,84);
+}
+#otchestvoOutput{
+    color: rgb(121,9,231);
+}
+#genderOutput{
+    color: rgb(26,72,234);
+}
+#birthYearOutput{
+    color: rgb(179,124,104);
+}
+#professionOutput{
+    color: rgb(197,17,96);
+}
